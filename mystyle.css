@@ -1,0 +1,157 @@
+body {
+    background-color: white;
+  }
+  
+h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+img {
+    width: 300px;
+    height: auto
+  }
+
+.centre {
+      position: absolute;
+      top: 30%;
+      left: 50%;
+      transform: translate(-50%, -50%)
+  }
+
+.top {
+      position: absolute;
+      top: 0;
+      right:10px;
+
+  }
+
+.top ul > li{
+      display: inline-block;
+      padding-right: 10px
+  }
+
+.top ul > li > a{
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    font-size: 13px
+}
+
+.top ul > li > a:hover{
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    text-decoration: underline;
+    
+}
+
+.search-bar {
+    position: absolute;
+    top: 41%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: url("http://kodyrabatowe.wp.pl/img/ico/search_gr.png") center left     no-repeat;
+    background-image: url('https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png');
+    background-repeat: no-repeat;
+    background-size: 25px;
+    width: 600px;
+    height:45px;
+    font-size: 16px;
+    padding: 4px 1px 4px 30px;
+    border: 1px solid #ddd;
+    margin-bottom: 12px;
+    border-radius: 90px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.buttons{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.buttons ul li {
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.buttons input {
+    height: 35px;
+    width: 120px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f7f7f7;
+    border-color: white;
+    border-style: none;
+    border-radius: 5px;
+}
+
+.buttons input:hover{
+    border: 1px solid grey;
+}
+
+.top-left {
+padding-top: 2px;
+padding-left: 2px;
+}
+.top-img{
+    width: 80px;
+    height: auto;
+}
+
+.adv {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    color: rgb(214, 0, 0);
+    padding-left: 58px;
+    padding-top:60px;
+}
+
+.line {
+    padding-top: 10px;
+}
+.line p{
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 58px;
+    font-size: 17px;
+}
+
+.boxes {
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 58px;
+    font-size: 14px;
+    padding-bottom:10px;
+}
+.boxes input{
+    display: auto;
+    width: 200%;
+    height: 25px;
+    border: 1px solid #ddd;
+}
+
+.boxes td{
+    padding-right: 30px;
+    padding-bottom: 15px;
+}
+
+.submit {
+    position: absolute;
+    top: 50%;
+    left: 73%;
+    transform: translate(-50%, -50%);
+    padding-top: 40px;
+
+}
+
+.submit input{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    background-color: rgb(75, 141, 248);
+    border-color: white;
+    border-style: none;
+    border-radius: 2px;
+    height: 30px;
+    width: 130px;
+    color: white;
+}
