@@ -26,7 +26,7 @@ Google search page:
 Google image page:
 ![image](https://user-images.githubusercontent.com/79690596/209237983-7cda7eec-8811-4865-addf-b3dd361aa13a.png)
 
-Google adnvanced search:
+Google advanced search:
 ![image](https://user-images.githubusercontent.com/79690596/209238011-831f29ee-0e67-4971-85d3-8e7ff68c4259.png)
 
 
