@@ -6,17 +6,17 @@ Copy of Google Search. Where the page looks as similar as possible to Google's S
 
 **Google Search:**
 
--Links the upper-right for google image search and google advanced search
+- Links in the upper-right for google image search and google advanced search
 
 **Google Image Search:**
 
--Type a query and be taken to google images based on the query 
+- Type a query and be taken to google images based on the query 
 
 **Google Advanced Search:**
 
--Allows users to search for things based on specific inputs
+- Allows users to search for things based on specific inputs
 
--"all these words:", "this exact word or phrase:" etc...
+- "all these words:", "this exact word or phrase:" etc...
 
 **Images**:
 
